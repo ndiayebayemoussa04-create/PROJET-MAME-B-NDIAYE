@@ -1,0 +1,10 @@
+{
+  "name": "NEXOMIA - Plateforme IA Transversale & Multisectorielle",
+  "description": "Prototype opérationnel NEXOMIA : Hub unifié NEXORA & OMNIA, 13 agents sectoriels, autonomie graduée, démos interactives (anti-fraude & omnicanal/stocks), base MySQL et conversations vocales en temps réel (gemini-3.8-live).",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
